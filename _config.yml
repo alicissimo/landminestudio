@@ -8,7 +8,7 @@
 theme_version: 1.0.1
 
 # Site settings
-title:              Landmine
+title:              Landmine Studio
 logo:               # Logo image URL
 description:        Thoughts, Stories and Ideas
 baseurl:            '/landminestudio' # The subpath of your site, e.g. /blog
