@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-image: '/images/pages/1.jpg'
+title: About Me
+image: '/images/pages/9.jpg'
 ---
 
 You love minimalism, want to be productive focusing only on the important things and want to take jekyll to the next level, Sinai is designed for you. Sinai focus on showing your content in a clean and simple way, focus on images, typography, and white space.
