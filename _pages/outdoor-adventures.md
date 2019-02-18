@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Outdoor Adventures
 image: '/images/pages/9.jpg'
 ---
 
